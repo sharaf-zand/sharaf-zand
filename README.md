@@ -15,4 +15,4 @@ Drop me an email at [sharaf.innovazions@gmail.com](mailto:sharaf.innovazions@gma
 ### 😄 Pronouns: He/Him
 
 ### ⚡ Fun Fact
-Supporting Chelsea FC has taught me one important thing—resilience. If I can survive a season of watching them struggle in the English Premier League, I can handle anything, even the toughest coding bugs. 💻⚽
+Supporting Chelsea FC has taught me one important thing - resilience. If I can survive a season of watching them struggle in the English Premier League, I can handle anything, even the toughest coding bugs. 💻⚽
