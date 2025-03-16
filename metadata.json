@@ -1,0 +1,12 @@
+{
+    "name": "Sharaf Stablecoin",
+    "symbol": "STZ",
+    "description": "Sharaf Stablecoin on Solana",
+    "image": "https://raw.githubusercontent.com/sharaf-zand/sharaf-zand/refs/heads/main/STDEV.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Stablecoin"
+      }
+    ]
+  }
