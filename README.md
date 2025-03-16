@@ -4,7 +4,7 @@
 I assume a role of **Principal Engineer** with a passion for **Platform Engineering**, **Generative AI**, and **Web3**. I enjoy building innovative, scalable solutions and tackling complex technical challenges head-on.
 
 ### 🌱 What I am Learning
-Currently exploring **Solidity.js** and **Temporal**—because why not add more tools to the ever-growing toolbox?
+Currently exploring **Solidity.js** and **Solana > Gill**—because why not add more tools to the ever-growing toolbox?
 
 ### 💡 Let’s Collaborate
 I am open to collaborating on projects in **Generative AI**, **Platform Engineering**, or **Web3**. If you have got something exciting in the works, let’s connect!
